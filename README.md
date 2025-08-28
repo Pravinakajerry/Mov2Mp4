@@ -1,10 +1,6 @@
 ### Demo
-
-<<<<<<< HEAD
 - [demo.gif](demo.gif)
-=======
- [demo.mp4](demo.mp4)
->>>>>>> 7889b83a46d8b8d0158ee409df539a7fab2c04fa
+
 
 <video src="demo.mp4" controls width="720" autoplay loop muted playsinline></video>
 
