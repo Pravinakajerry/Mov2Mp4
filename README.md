@@ -1,6 +1,6 @@
 ### Demo
 
-- [demo.mp4](demo.mp4)
+- [demo.gif](demo.gif)
 
 <video src="demo.mp4" controls width="720" autoplay loop muted playsinline></video>
 
